@@ -1,6 +1,6 @@
 ### ![](https://visitor-badge.glitch.me/badge?page_id=xreapex)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Thomas, I am a student developer and I love to create and discover new technologies
+My name is Thomas, I live in the suburbs of Paris, France and I am passionate about Web development, Application ...
 
 ### 🛠 &nbsp;Tech Stack
 
