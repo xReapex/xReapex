@@ -1,6 +1,6 @@
 ### ![](https://visitor-badge.glitch.me/badge?page_id=xreapex)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Thomas, I live in the suburbs of Paris, France and I am passionate about Web development, Application ...
+My name is Thomas, I live in the suburbs of Paris, France and I am passionate about back-end development ...
 
 ### 🛠 &nbsp;Tech Stack
 
