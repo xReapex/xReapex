@@ -15,9 +15,11 @@ My name is Thomas, I live in the suburbs of Paris, France and I am passionate ab
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<raw>
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xreapex&langs_count=8&theme=prussian"/>
 </a>
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=xreapex&show_icons=true&theme=prussian"/>
 </a>
+</raw>
